@@ -1,0 +1,25 @@
+[
+    {
+        "orderId": "ORD-001",
+        "city": "6th of October",
+        "zoneHint": "6 October- El Montazah",
+        "address": "6 Oct - El Montazh,, st. 12",
+        "paymentType": "COD",
+        "productType": "fragile",
+        "weight": 2.0,
+        "deadline": "2025-08-12 16:30:00"
+    },
+    {
+        "orderId": "ORD-002",
+        "city": "6th of October",
+        "zoneHint": "6 October-El Montazah",
+        "address": "6th of Oct., El-Montazah st 12",
+        "paymentType": "COD",
+        "productType": "fragile",
+        "weight": 2.0,
+        "deadline": "2025-08-12 16:30:00",
+        "warnings": [
+            "Address conflict: '6th of Oct., El-Montazah st 12' vs '12 Dokki St.'"
+        ]
+    }
+]
